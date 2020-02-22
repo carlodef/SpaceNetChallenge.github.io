@@ -50,7 +50,7 @@ The catalog contains the following packages:
 
 ### Available solutions from contest winners:
 
-* 1st place: [https://github.com/MISS3D/s2p](https://github.com/MISS3D/s2p)
+* 1st place: [https://github.com/cmla/s2p](https://github.com/cmla/s2p)
 * 2nd place: [https://github.com/FakePsyho/mvs](https://github.com/FakePsyho/mvs)
 * 3rd place: [https://github.com/sdrdis/iarpa](https://github.com/sdrdis/iarpa)
 * 4th place: [http://u.osu.edu/qin.324/rsp/](http://u.osu.edu/qin.324/rsp/)
